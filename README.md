@@ -3,7 +3,7 @@ Common Git Commands I would like to remember or have handy, without having to pa
 Really this is likes notes for me, but if I help newbies I'd be very happy :-)
 
 
-## **NEED** to Know
+## You **NEED** to Know
 ### git init
 - first, make sure you have git installed...FTLOG
 - this will initialize git to control the files of your current directory.
@@ -24,7 +24,7 @@ Really this is likes notes for me, but if I help newbies I'd be very happy :-)
 - pushes code **AFTER** committing it locally
 - **IMPORTANT** origin can be a different name, like a variable. Origin is common though.
 
-## **SHOULD** know
+## You **SHOULD** know
 ### git clone https://github.com/HLBoun/common-git-commands
 - Clones a repository at your current directory (in terminal...these are all temrinal commands)
 - if you have a project you've started on your desktop, and have **never** touched on your laptop. Start with this on your laptop
