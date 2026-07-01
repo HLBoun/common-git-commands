@@ -43,6 +43,10 @@ Really this is likes notes for me, but if I help newbies I'd be very happy :-)
 ### git log
 - shows chronological list or commit history
 - important for knowing if *you* are the one that messed up
+### git status
+- shows how far ahead of remote repo you are
+### git reset HEAD~1
+- removes 1 local commit i believe, but keeps your code
 
 ## Pocket Mousekatools
 ### git switch --orphan <branch name>
