@@ -20,6 +20,9 @@ Really this is likes notes for me, but if I help newbies I'd be very happy :-)
 - essential for vim users *and* any type of professionality
 - Obviously, you would change the link to be *your* repo. 
 ### git push -u origin main
+- origin is the name of the remote repo
+- main is the name of the local branch
+- can do 'git push -u origin main:MacOS' to push to the MacOS branch of Neovim-Config-Personal
 - -u flag means set upstream
 - pushes code **AFTER** committing it locally
 - **IMPORTANT** origin can be a different name, like a variable. Origin is common though.
