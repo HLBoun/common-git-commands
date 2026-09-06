@@ -15,7 +15,7 @@ Really this is likes notes for me, but if I help newbies I'd be very happy :-)
 - adds all changed files to be ready for commit
 ### git commit -m "Put message here SIX SEVEN"
 - commits your code **locally** with a short message
-### git remote add https://github.com/HLBoun/RepoNameHere
+### git remote add origin https://github.com/HLBoun/RepoNameHere
 - links a remote repo to your local git repository
 - essential for vim users *and* any type of professionality
 - Obviously, you would change the link to be *your* repo. 
